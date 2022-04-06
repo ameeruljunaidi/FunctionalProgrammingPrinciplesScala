@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/ajjunaidi/Dev/SquareRoot/src/test/scala/SquareRootSuite.scala:2:30 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m2 |[0m[33mclass[0m [35mSquareRootSuite[0m [33mextends[0m munit.FunSuite:[0m
+[0m[[0m[31merror[0m] [0m[0m  |                              [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                              Not found: munit[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/ajjunaidi/Dev/SquareRoot/src/test/scala/SquareRootSuite.scala:4:2 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m  test([31m"random test"[0m) {[0m
+[0m[[0m[31merror[0m] [0m[0m  |  [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |  Not found: test[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/ajjunaidi/Dev/SquareRoot/src/test/scala/SquareRootSuite.scala:5:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m    assertEquals([31m1[0m + [31m1[0m, [31m2[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m  |    [31m^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |    Not found: assertEquals[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
